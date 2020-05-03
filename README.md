@@ -1,5 +1,5 @@
 
-# Map visualization example of crime incidents using Crimeometer API 
+# CrimeCatch 
 
 For this project we use [deck.gl](https://deck.gl) library
 
